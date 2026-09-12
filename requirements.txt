@@ -9,7 +9,7 @@ defusedxml==0.8.0rc2
 dj-database-url==2.1.0
 Django==5.2.16
 django-cors-headers==4.9.0
-django-ses==3.5.0
+django-ses==4.8.0
 django-storages==1.14.6
 django-templated-mail==1.1.1
 djangorestframework==3.18.1
