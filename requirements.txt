@@ -12,7 +12,6 @@ django-cors-headers==4.2.0
 django-ses==3.5.0
 django-storages==1.14.1
 django-templated-mail==1.1.1
-<<<<<<< HEAD
 djangorestframework==3.17.2
 djangorestframework-simplejwt==5.5.1
 djoser==2.3.0
