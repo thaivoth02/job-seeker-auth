@@ -10,6 +10,8 @@ permissions:
 jobs:
   django-check:
     runs-on: ubuntu-latest
+    env:
+      DATABASE_URL: sqlite:///db.sqlite3
     steps:
       - name: Check out repository
         uses: actions/checkout@v4
